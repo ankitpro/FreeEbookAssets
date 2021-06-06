@@ -1,0 +1,204 @@
+{
+  "update": "05/06/2021",
+  "book_info": [
+    {
+      "id": 0,
+      "categories": "Most Popular",
+      "description": "Other readers finished these best selling books quickly",
+      "page_url": "https://www.pdfdrive.com/category/112",
+      "image_url": "https://www.pdfdrive.com/category/112"
+    },
+    {
+      "id": 1,
+      "categories": "Editor's Picks",
+      "description": "Hand picked books from the Editors",
+      "page_url": "https://www.pdfdrive.com/category/113",
+      "image_url": "https://www.pdfdrive.com/category/113"
+    },
+    {
+      "id": 2,
+      "categories": "Best Books of the Week",
+      "description": "Hand Picked Best Books Of The Week",
+      "page_url": "https://www.pdfdrive.com/category/127",
+      "image_url": "https://www.pdfdrive.com/category/127"
+    },
+    {
+      "id": 3,
+      "categories": "Passion and Purpose",
+      "description": "Selected Books on finding your Passion and Purpose In Life",
+      "page_url": "https://www.pdfdrive.com/category/232.",
+      "image_url": "https://www.pdfdrive.com/category/232"
+    },
+    {
+      "id": 4,
+      "categories": "Parenting Books",
+      "description": "Parenting Books to Raise Grateful, Healthy & Happy Childen",
+      "page_url": "https://www.pdfdrive.com/category/253",
+      "image_url": "https://www.pdfdrive.com/category/253"
+    },
+    
+    
+    {
+      "id": 5,
+      "categories": "Love and Accept Yourself",
+      "description": "Books That Will Help You Love and Accept Yourself",
+      "page_url": "https://www.pdfdrive.com/category/211",
+      "image_url": "https://www.pdfdrive.com/category/211"
+    },
+    {
+      "id": 6,
+      "categories": "Motivational Books",
+      "description": "Best Motivational Books to Take Charge of Your Life",
+      "page_url": "https://www.pdfdrive.com/category/176",
+      "image_url": "https://www.pdfdrive.com/category/176"
+    },
+    
+    
+    
+    
+    {
+      "id": 7,
+      "categories": "Academic & Education",
+      "description": "Trending eBooks about Academic & Education",
+      "page_url": "https://www.pdfdrive.com/category/6",
+      "image_url": "https://www.pdfdrive.com/category/6"
+    },
+    {
+      "id": "7x2",
+      "categories": "Environment",
+      "description": "Environment",
+      "page_url": "https://www.pdfdrive.com/category/2",
+      "image_url": "https://www.pdfdrive.com/category/2"
+    },
+    {
+      "id": "7x9",
+      "categories": "History",
+      "description": "History",
+      "page_url": "https://www.pdfdrive.com/category/9",
+      "image_url": "https://www.pdfdrive.com/category/9"
+    },
+    {
+      "id": "7x43",
+      "categories": "Engineering",
+      "description": "Engineering",
+      "page_url": "https://www.pdfdrive.com/category/43",
+      "image_url": "https://www.pdfdrive.com/category/43"
+    },
+    {
+      "id": "7x44",
+      "categories": "Psychology",
+      "description": "Psychology",
+      "page_url": "https://www.pdfdrive.com/category/44",
+      "image_url": "https://www.pdfdrive.com/category/44"
+    },
+    {
+      "id": "7x45",
+      "categories": "Medical",
+      "description": "Medical",
+      "page_url": "https://www.pdfdrive.com/category/45",
+      "image_url": "https://www.pdfdrive.com/category/45"
+    },
+    {
+      "id": "7x46",
+      "categories": "Language",
+      "description": "Language",
+      "page_url": "https://www.pdfdrive.com/category/46",
+      "image_url": "https://www.pdfdrive.com/category/46"
+    },
+    {
+      "id": "7x47",
+      "categories": "Religion",
+      "description": "Religion",
+      "page_url": "https://www.pdfdrive.com/category/47",
+      "image_url": "https://www.pdfdrive.com/category/47"
+    },
+    {
+      "id": "7x49",
+      "categories": "Sociology",
+      "description": "Sociology",
+      "page_url": "https://www.pdfdrive.com/category/49",
+      "image_url": "https://www.pdfdrive.com/category/49"
+    },
+    {
+      "id": "7x51",
+      "categories": "Geography",
+      "description": "Geography",
+      "page_url": "https://www.pdfdrive.com/category/51",
+      "image_url": "https://www.pdfdrive.com/category/51"
+    },
+    {
+      "id": "7x52",
+      "categories": "Economic",
+      "description": "Economic",
+      "page_url": "https://www.pdfdrive.com/category/52",
+      "image_url": "https://www.pdfdrive.com/category/52"
+    },
+    
+    
+    {
+      "id": 1,
+      "categories": "Art",
+      "description": "Trending eBooks about Art",
+      "page_url": "https://www.pdfdrive.com/category/1",
+      "image_url": "https://www.pdfdrive.com/category/1"
+    },
+    {
+      "id": "1x20",
+      "categories": "Photography",
+      "description": "Photography",
+      "page_url": "https://www.pdfdrive.com/category/20",
+      "image_url": "https://www.pdfdrive.com/category/20"
+    },
+    {
+      "id": "1x21",
+      "categories": "Painting & Drawing",
+      "description": "Painting & Drawing",
+      "page_url": "https://www.pdfdrive.com/category/21",
+      "image_url": "https://www.pdfdrive.com/category/21"
+    },
+    {
+      "id": "1x22",
+      "categories": "Craft & Hobbies",
+      "description": "Craft & Hobbies",
+      "page_url": "https://www.pdfdrive.com/category/22",
+      "image_url": "https://www.pdfdrive.com/category/22"
+    },
+    {
+      "id": "1x23",
+      "categories": "Architecture",
+      "description": "Architecture",
+      "page_url": "https://www.pdfdrive.com/category/23",
+      "image_url": "https://www.pdfdrive.com/category/23"
+    },
+    {
+      "id": "1x24",
+      "categories": "Graphic Design",
+      "description": "Graphic Design",
+      "page_url": "https://www.pdfdrive.com/category/24",
+      "image_url": "https://www.pdfdrive.com/category/24"
+    },
+    {
+      "id": "1x25",
+      "categories": "Music",
+      "description": "Music",
+      "page_url": "https://www.pdfdrive.com/category/25",
+      "image_url": "https://www.pdfdrive.com/category/25"
+    },
+    {
+      "id": "1x26",
+      "categories": "Fashion & Beauty",
+      "description": "Fashion & Beauty",
+      "page_url": "https://www.pdfdrive.com/category/26",
+      "image_url": "https://www.pdfdrive.com/category/26"
+    },
+    
+    
+    {
+      "id": 16,
+      "categories": "Biography",
+      "description": "Trending eBooks about Biography",
+      "page_url": "https://www.pdfdrive.com/category/16",
+      "image_url": "https://www.pdfdrive.com/category/16"
+    }
+    ]
+}
